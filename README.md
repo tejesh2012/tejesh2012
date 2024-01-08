@@ -1,5 +1,7 @@
-# 💫 About Me:
-React
+# 💫 About Me: Hi! 👋 I'm Tejesh Chauhan, a recent B.Tech graduate in Computers from RGPV, Bhopal. I'm a web developer passionate about creating efficient and user-friendly websites. With skills in HTML, CSS, PHP, and JavaScript, I'm eager to contribute to innovative projects. Let's connect and explore opportunities in the dynamic world of web development!
+
+#WebDeveloper #TechGraduate
+React 
 
 
 ## 🌐 Socials:
